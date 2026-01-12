@@ -2,17 +2,17 @@
 export const portfolioConfig = {
   // Personal Information
   personal: {
-    name: "Aegis",
-    title: "Bot Developer",
-    tagline: "Hello, I'm Aegis, a professional bot developer specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
+    name: "RDX.dev",
+    title: "Bot Dev & Hosting dev",
+    tagline: "Hello, I'm RDX.dev, a professional bot dev & hosting dev specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
     email: "aegis@strelixcloud.com",
     location: "N/A",
-    avatar: "/src/assets/aegis.png"
+    avatar: "/src/assets/rdx.png"
   },
 
   // SEO & Meta
   seo: {
-    title: "Aegis - Bot Developer Portfolio",
+    title: "RDX.dev - Bot Developer Portfolio",
     description: "Professional bot developer creating modern applications. View my portfolio showcasing recent projects and technical expertise.",
     keywords: ["bot developer", "discord.py", "python", "node.js", "discord bots", "automation"],
     ogImage: "/og-image.png"
@@ -58,27 +58,27 @@ export const portfolioConfig = {
   // Projects Configuration
   projects: [
     {
-      name: "StrelixCloud",
-      year: "2025",
+      name: "ZassHosting",
+      year: "2026",
       description: "Professional hosting platform providing custom development and premium digital solutions for modern businesses and gaming communities.",
       tags: ["Pterodactyl", "Proxmox", "Docker"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://strelixcloud.com"
+        github: "https://github.com/rohitsahoodev-ui/",
+        live: "https://zasshosting.qzz.io/"
       }
     },
     {
-      name: "AeroX",
+      name: "HexaCraft",
       year: "2025", 
-      description: "A comprehensive development platform and community hub for programmers and coders.",
+      description: "best free and paid vps , Minecraft hosting",
       tags: ["Discord.py", "Python3", "Nodejs"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/ZVz7CgTy5v"
+        github: "https://github.com/rohitsahoodev-ui/",
+        live: "https://discord.gg/hexacraft"
       }
     },
     {
@@ -89,7 +89,7 @@ export const portfolioConfig = {
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
+        github: "https://github.com/rohitsahoodev-ui/",
         live: "https://discord.gg/strelix"
       }
     },
@@ -101,7 +101,7 @@ export const portfolioConfig = {
       status: "coming soon",
       featured: false,
       links: {
-        github: "https://github.com/AeroXDevs",
+        github: "https://github.com/rohitsahoodev-ui/",
         live: "https://discord.gg/strelix"
       }
     },
@@ -113,7 +113,7 @@ export const portfolioConfig = {
       status: "coming soon",
       featured: false,
       links: {
-        github: "https://github.com/AeroXDevs",
+        github: "https://github.com/rohitsahoodev-ui/",
         live: "https://discord.gg/strelix"
       }
     }
@@ -121,11 +121,11 @@ export const portfolioConfig = {
 
   // Social Links
   social: {
-    github: "https://github.com/AeroXDevs",
-    linkedin: "https://linkedin.com/in/aegis",
-    twitter: "https://twitter.com/aegis",
-    youtube: "https://youtube.com/@aerox-devs?si=PfSlKrjWD_pV2SXb",
-    email: "mailto:aegis@strelixcloud.com"
+    github: "https://github.com/rohitsahoodev-ui/",
+    linkedin: "https://linkedin.com/in/",
+    twitter: "https://twitter.com/",
+    youtube: "",
+    email: "mailto:me@zasshosting.qzz.io"
   },
 
   // Content Sections
