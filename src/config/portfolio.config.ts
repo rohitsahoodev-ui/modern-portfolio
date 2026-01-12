@@ -7,7 +7,7 @@ export const portfolioConfig = {
     tagline: "Hello, I'm RDX.dev, a professional bot dev & hosting dev specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
     email: "aegis@strelixcloud.com",
     location: "N/A",
-    avatar: "/src/assets/rdx.png"
+    avatar: "/src/assets/aegis.png"
   },
 
   // SEO & Meta
